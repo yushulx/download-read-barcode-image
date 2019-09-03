@@ -16,6 +16,12 @@ Get a [free trial license](https://www.dynamsoft.com/CustomerPortal/Portal/Trial
 dbr.initLicense('LICENSE-KEY')
 ```
 
+Set a keyword:
+
+```python
+keyword = "barcode on box"
+```
+
 Run the app:
 
 ```
