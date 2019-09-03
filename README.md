@@ -1,4 +1,4 @@
-# read-downloaded-barcode-image
+# Download and Read Barcode Images
 Use Python to download barcode images from Google and read barcodes with [Dynamsoft Barcode Reader](https://www.dynamsoft.com/Products/Dynamic-Barcode-Reader.aspx).
 
 ## Usage
@@ -22,7 +22,7 @@ Run the app:
 python app.py
 ```
 
-
+![download read barcode image](https://www.codepool.biz/wp-content/uploads/2019/09/download-read-barcode-image.png)
 
 ## Reference
 https://google-images-download.readthedocs.io/en/latest/index.html
