@@ -36,8 +36,8 @@ if __name__ == "__main__":
     images = paths[0][keyword]
 
     for filename in images:
-            print("-------------------------------------------------\n")
-            print(filename)
-            decodeFile(filename)
+        print("-------------------------------------------------\n")
+        print(filename)
+        decodeFile(filename)
             
     # read_folder(os.path.join(os.getcwd(), 'downloads', keyword))
