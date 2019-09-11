@@ -32,3 +32,6 @@ python app.py
 
 ## Reference
 https://google-images-download.readthedocs.io/en/latest/index.html
+
+## Blog
+[Downloading Barcode Images from Google for SDK Test](https://www.codepool.biz/download-read-google-barcode-images.html)
